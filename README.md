@@ -134,7 +134,7 @@ GoogleSignin.currentUserAsync().then((user) => {
 simple getter to access user once signed in.
 ```js
 const user = GoogleSignin.currentUser();
-// user is null if not signed in
+// user is an empty object if not signed in
 ```
 
 #### - signIn
