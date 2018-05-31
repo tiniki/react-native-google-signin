@@ -5,6 +5,11 @@
   <img src="https://img.shields.io/npm/dw/react-native-google-signin.svg" />
 </p>
 
+## Fork information
+This fork solves *GoogleSignIn/GoogleSignIn.h not found*. Run  
+> react-native link react-native-google-signin  
+
+to use
 
 ## Important!
 > On May 15, the repo was moved to react-native-community, and we're looking for contributors to help get the project back up to speed [see related issue](https://github.com/react-native-community/react-native-google-signin/issues/386).
